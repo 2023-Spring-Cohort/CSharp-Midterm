@@ -33,27 +33,6 @@ This assignment will serve as additional review for all the content we've covere
 	- [YOUR ANSWER HERE]
 7. What are the three types of relationships within our database?
 	- [YOUR ANSWER HERE]
-## Section Three: HTML and CSS and JavaScript
-1. Create a folder within this repository called 'docs'
-2.  Open that folder inside of Visual Studio Code, and create three files: index.html, index.css, and index.js
-3. Link your css and js files to your html file using the link and script tags in their respective places.
-4. Create the largest heading you can, and give it an id 'main-heading'
-5. Create a CSS style that makes all elements with the 'main-heading' id use the sans-serif font family, and style them so they're blue.
-6. When should you use CSS Grid vs. CSS Flexbox?
-	- [YOUR ANSWER HERE]
-7. Which CSS selector targets all HTML elements with a particular class? What about tag name? Id?
-	- [YOUR ANSWER HERE]
-8. What is the DOM (document-object-model)?
-	- [YOUR ANSWER HERE]
-9.  What is JSON (JavaScript Object Notation)?
-	- [YOUR ANSWER HERE]
-10. Using DOM manipulation, select the 'main-heading' object within your JavaScript file and store it in a variable called 'heading'.
-11. Add an event-listener to the 'main-heading' object that increases the font-size when clicked.
-12. JavaScript is considered 'loosely typed' compared to C# being 'strongly typed'... What does this mean?
-	- [YOUR ANSWER HERE]
-13. Create a variable called 'counter' and initialize it to a value of 0.
-14. Create a JavaScript function that prints the word "Hello!" to the console and increases counter by 3.
-15. Run that function twice.
 ## Section Four: Jargon
 1. What is a method? How does it differ from a function?
 	- [YOUR ANSWER HERE]
@@ -71,13 +50,11 @@ This assignment will serve as additional review for all the content we've covere
 ### Only answer these questions if you've run out of other questions to answer!
 1. What is an enum, and when should we use them?
 	- [YOUR ANSWER HERE]
-2. Why doesn't Davis consider HTML / CSS a *programming* language?
+2. What are dictionaries? How do they differ from arrays or lists?
 	- [YOUR ANSWER HERE]
-3. What are dictionaries? How do they differ from arrays or lists?
+3. What is identity/authentication in the context of an application?
 	- [YOUR ANSWER HERE]
-4. What is identity/authentication in the context of an application?
+4. What is type casting?
 	- [YOUR ANSWER HERE]
-5. What is type casting?
-	- [YOUR ANSWER HERE]
-6. What is SQL?
+5. What is SQL?
 	- [YOUR ANSWER HERE]
