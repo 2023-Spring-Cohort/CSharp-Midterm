@@ -33,7 +33,7 @@ This assignment will serve as additional review for all the content we've covere
 	- [YOUR ANSWER HERE]
 7. What are the three types of relationships within our database?
 	- [YOUR ANSWER HERE]
-## Section Four: Jargon
+## Section Three: Jargon
 1. What is a method? How does it differ from a function?
 	- [YOUR ANSWER HERE]
 2. What is a property? How does it differ from a variable?
@@ -46,7 +46,7 @@ This assignment will serve as additional review for all the content we've covere
 	- [YOUR ANSWER HERE]
 6. What operator is the 'assignment' operator?
 	- [YOUR ANSWER HERE]
-## Section Five: Bonus
+## Section Four: Bonus
 ### Only answer these questions if you've run out of other questions to answer!
 1. What is an enum, and when should we use them?
 	- [YOUR ANSWER HERE]
